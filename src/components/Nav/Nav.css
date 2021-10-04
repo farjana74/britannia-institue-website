@@ -1,0 +1,14 @@
+.nav{
+    background-color: rgb(26, 19, 29);
+    text-decoration: none;
+    line-height: 70px;
+
+}
+.navigation a{
+    text-decoration: none;
+    margin-left: 10px;
+    padding: 20px;
+    font-size: 20px;
+
+
+}

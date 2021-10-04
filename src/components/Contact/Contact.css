@@ -1,0 +1,16 @@
+.contact{
+    margin-top: 20px;
+    /* background-image: url('../../images/header.jpg'); */
+    height: 600px;
+    background-repeat: no-repeat;
+    /* text-align: center; */
+    /* border: 2px solid red; */
+   
+}
+.contact-show{
+    /* text-align: center; */border: 10px solid rgb(129, 157, 235);
+    width:75%;
+    padding: 30px;
+}
+
+    

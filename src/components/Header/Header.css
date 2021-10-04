@@ -1,0 +1,15 @@
+.header{
+    
+    background-image: url('../../images/header.jpg');
+    height:500px;
+    /* background-repeat: no-repeat; */
+    text-align: center;
+}
+.text{
+    /* border:2px solid rgb(134, 33, 33); */
+    text-align: center;
+    color:white;
+    font-size: 50px;
+
+
+}

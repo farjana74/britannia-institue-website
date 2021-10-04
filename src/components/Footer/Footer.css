@@ -1,0 +1,16 @@
+.footer{
+    line-height: 400px;
+    /* padding: 30px; */
+    /* width:100px; */
+    /* border:2px solid red; */
+    padding: 40px;
+}
+li a{
+    text-decoration:none
+}
+.footer-show{
+    margin-top: 30px;
+}
+.footer-details{
+    margin-top: 10px;
+}
