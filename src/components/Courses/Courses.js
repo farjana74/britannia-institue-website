@@ -15,15 +15,7 @@ const Courses = () => {
             <p className="course-details"> The world best subject you choics and you have to fulfill your carrerr and scholaarship.
 <br />
                 our university has top ranking and most popular .here you have some good facilities and others research and facilities</p>
-                {/* <div className="row">
-                    <div className="col-md-5  img-shoe">
-                        
-                    </div>
-                    <div className="col-md-5">
-                        <h2>gnfbgdfn</h2>
-                    </div>
-
-                </div> */}
+               
             <div className="container">
         <div className="row">
             <div className="">

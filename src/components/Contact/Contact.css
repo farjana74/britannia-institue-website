@@ -1,14 +1,16 @@
 .contact{
     margin-top: 20px;
-    /* background-image: url('../../images/header.jpg'); */
+    background-image: url('../../images/book.jpg');
     height: 600px;
     background-repeat: no-repeat;
-    /* text-align: center; */
-    /* border: 2px solid red; */
+    background-position: center;
+    background-size: cover;
+    
    
 }
 .contact-show{
-    /* text-align: center; */border: 10px solid rgb(129, 157, 235);
+    border: 5px solid rgb(129, 157, 235);
+    border-radius: 10px;
     width:75%;
     padding: 30px;
 }

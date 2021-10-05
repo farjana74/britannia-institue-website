@@ -14,7 +14,7 @@ const Subject = (props) => {
      <Card.Text>
      {describe}
      </Card.Text>
-     <h3>total cost:{cost}</h3>
+     <h3 className="fs-5">Cost:{cost}</h3>
    </Card.Body>
    <Card.Footer>
      <small><button className="bg-info p-2 border-0 rounded text-white fs-5">know more</button> </small>

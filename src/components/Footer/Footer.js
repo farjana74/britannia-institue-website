@@ -6,28 +6,13 @@ const Footer = () => {
     return (
         <div className="footer-show">
             <div>
-                <div className="row bg-black footer mt-10 text-primary">
+                <div className="row bg-info footer  text-primary">
                     <div className="col-md-12 mt-15"> <h4 className="footer-details App ms-auto" >©2013-2021. Britannia University | All Right Reserved | Design & Developed By CSE Dept</h4>
                     
                     <h4>Our portable is best prority</h4>
                     
                     </div>
-                    {/* <div className="col-md-3 fs-5">
-                       
-
-
-
-
-
-
-                        
-                    </div> */}
-                    {/* <div className="col-md-3 d-flex">
-                       
-                       <ul><a href="">Apply</a></ul>
-                       <ul><a href="">Details</a></ul>
-                       <ul><a href="">Monitoring</a></ul>
-                    </div> */}
+                   
                 </div>
             </div>
         </div>

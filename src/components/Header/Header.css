@@ -1,12 +1,15 @@
 .header{
     
-    background-image: url('../../images/header.jpg');
+    background-image: url('../../images/wp2468653.jpg');
     height:500px;
-    /* background-repeat: no-repeat; */
-    text-align: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+    margin-bottom: 10;
 }
 .text{
-    /* border:2px solid rgb(134, 33, 33); */
+   
     text-align: center;
     color:white;
     font-size: 50px;
